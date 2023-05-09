@@ -1,0 +1,25 @@
+body {
+    background-color: #264653;
+
+}
+
+.main {
+    margin-top: 100px;
+}
+
+
+
+img {
+    display: block;
+    width: 200px;
+    margin: auto;
+    border: 20px;
+}
+
+input {
+    display: block;
+    width: 400px;
+    margin: auto;
+    margin-top: 25px;
+    line-height: 30px;
+}
